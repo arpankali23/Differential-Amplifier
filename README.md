@@ -6,4 +6,5 @@ A tail current source (using an NMOS transistor, M0) is used to set the differen
 The potential division method helps set the bias point of the differential pair and the active load. You can use resistor dividers or voltage sources to adjust the gate voltages of the transistors to set the proper operating point.
 Perform DC, AC, and transient analysis in Cadence Virtuoso to verify the gain, slew rate, and operating points.
 Adjust the transistor sizes, bias currents, and load capacitance based on simulation results to meet the design specifications.
+Fine-tune the parameters to ensure the amplifier meets the required gain and slew rate. Ensure that all transistors remain in saturation for proper operation.
 
